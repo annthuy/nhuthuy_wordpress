@@ -10,7 +10,7 @@
 <channel>
 	<title>dammei &#8211; Hoa Mọc Trên Cung Trăng</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/dammei/feed/" rel="self" type="application/rss+xml" />
-	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<link></link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 15 Sep 2021 17:33:15 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>XUYÊN THÀNH NAM PHỤ BẺ CONG NAM CHÍNH</title>
-		<link>https://annthuy.github.io/nhuthuy_wordpress/xuyen-thanh-nam-phu-be-cong-nam-chinh/</link>
-					<comments>https://annthuy.github.io/nhuthuy_wordpress/xuyen-thanh-nam-phu-be-cong-nam-chinh/#respond</comments>
+		<link>/xuyen-thanh-nam-phu-be-cong-nam-chinh/</link>
+					<comments>/xuyen-thanh-nam-phu-be-cong-nam-chinh/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 01:34:26 +0000</pubDate>
 				<category><![CDATA[truyện]]></category>
 		<category><![CDATA[dammei]]></category>
 		<category><![CDATA[truyen]]></category>
-		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=99</guid>
+		<guid isPermaLink="false">/?p=99</guid>
 
 					<description><![CDATA[NGUYÊN TÁC: Thanh Thủy Nương NươngBIÊN SOẠN: Tô TânTRANS+EDIT: Mèo Ba ĐuôiTHỂ LOẠI: Đam mỹ, mau xuyên, bách biến thụ x đủ kiểu soái công… TÌNH TRẠNG RAW: Hoàn (334 chương – 13 thế giới + 4 phiên ngoại + Lời kết của tác giả)TÌNH TRẠNG EDIT : Đang lết…NỘI DUNG: Mau xuyên bách biến thụ vs các loại soái ca công [Đôi lời của tác giả] “… Trước giờ mị tìm mãi không thấy văn thuần ái đam mỹ mau xuyên, Nương Nương là hủ nữ, nhưng cũng không phải thuần hủ nữ, trước đây mị toàn xem mau xuyên ngôn tình. Bởi bản thân từng bị mau xuyên nữ chính Mary Sue gây ghê tởm quá, đã ở bên nam chính còn có nhiều tình tiết thả thính nam phụ. Cho nên Nương Nương quyết định mở một thiên văn nam phụ cùng nam chính, dứt bỏ nữ chính…” TÓM TẮT Kỳ Ngôn sau khi chết thì xuyên việt, sau khi bị hệ thống quấn lấy đã đi đến từng thế giới khác nhau công lược nam chính. Tự nhận mình là “người vô cùng đào hoa, có vô số người tình nhưng không thật lòng yêu một ai”, tay lão luyện đứng giữa muôn hoa đến cuối cùng cũng bị rễ tình cắm sâu, như vậy hắn còn có thể toàn thần tiêu sái mà trở ra sao ? &#160; MỤC LỤC THẾ GIỚI THỨ IKHI NAM CHÍNH BĂNG SƠN BÁ ĐẠO BỊ BẺ CONG Chap 1  – Chap 2 – Chap 3 – Chap 4 – Chap 5 – Chap 6 – Chap 7 – Chap 8 – Chap 9 – Chap 10 – Chap 11 (END) THẾ GIỚI THỨ 2KHI NAM CHÍNH TRUNG HẬU CHÍNH TRỰC BỊ BẺ CONG Chap 12 – Chap 13 – Chap 14 – Chap 15 – Chap 16 – Chap 17 – Chap 18 – Chap 19 – Chap 20 – Chap 21 – Chap 22 – Chap 23 – Chap 24 – Chap 25 (END) THẾ GIỚI THỨ 4KHI NAM CHÍNH PHÚC HẮC NGẢ NGỚN BỊ BẺ CONG Chap 26 – Chap 27 – Chap 28 – Chap 29 – Chap 30 – Chap 31 – Chap 32 – Chap 33 – Chap 34 – Chap 35 – Chap 36 – Chap 37 – Chap 38 – Chap 39 – Chap 40 (END) THẾ GIỚI THỨ 4KHI NAM CHÍNH THÚ NHÂN VIỄN CỔ BỊ BẺ CONG Chap 41 – Chap 42 – Chap 43 – Chap 44 – Chap 45 – Chap 46 – Chap 47 – Chap 48 – Chap 49 – Chap 50 – Chap 51 – Chap 52 – Chap 53 – Chap 54 (END) THẾ GIỚI THỨ 5KHI NAM CHÍNH MA ĐẠO TÀ MỊ BỊ BẺ CONG Audio]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery columns-1 is-cropped">
 <ul class="blocks-gallery-grid">
 <li class="blocks-gallery-item">
-<figure><img loading="lazy" width="982" height="444" class="wp-image-89" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/cropped-bbbb.jpg" alt="" data-id="89" /></figure>
+<figure><img loading="lazy" width="982" height="444" class="wp-image-89" src="/wp-content/uploads/2021/08/cropped-bbbb.jpg" alt="" data-id="89" /></figure>
 </li>
 </ul>
 </figure>
@@ -134,15 +134,15 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
 <div>
 
-<a href='https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/Hotaru-FujitaMaiko_3cmw5.mp3'>Hotaru</a>
-<a href='https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/Lemon-KenshiYonezu-5411306.mp3'>Lemon</a>
-<a href='https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/SakuraAnataNiDeaeteYokatta-RSP-698987.mp3'>Sakura Anata Ni Deaete Yokatta</a>
+<a href='/wp-content/uploads/2021/08/Hotaru-FujitaMaiko_3cmw5.mp3'>Hotaru</a>
+<a href='/wp-content/uploads/2021/08/Lemon-KenshiYonezu-5411306.mp3'>Lemon</a>
+<a href='/wp-content/uploads/2021/08/SakuraAnataNiDeaeteYokatta-RSP-698987.mp3'>Sakura Anata Ni Deaete Yokatta</a>
 
 </div>
 </figure>
 <p><!-- /wp:embed --></p>]]></content:encoded>
 					
-					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/xuyen-thanh-nam-phu-be-cong-nam-chinh/feed/</wfw:commentRss>
+					<wfw:commentRss>/xuyen-thanh-nam-phu-be-cong-nam-chinh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -10,7 +10,7 @@
 <channel>
 	<title>soluoc &#8211; Hoa Mọc Trên Cung Trăng</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/soluoc/feed/" rel="self" type="application/rss+xml" />
-	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<link></link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Mon, 13 Sep 2021 09:32:08 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Rose &#8216;Arthur Belle&#8217;</title>
-		<link>https://annthuy.github.io/nhuthuy_wordpress/arthur-bell/</link>
-					<comments>https://annthuy.github.io/nhuthuy_wordpress/arthur-bell/#respond</comments>
+		<link>/arthur-bell/</link>
+					<comments>/arthur-bell/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 01:31:00 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[hoa]]></category>
 		<category><![CDATA[soluoc]]></category>
-		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=5</guid>
+		<guid isPermaLink="false">/?p=5</guid>
 
 					<description><![CDATA[Từ rất lâu, hoa hồng đã được xem như một biểu tượng cao quý của tình yêu bởi vẻ đẹp lãng mạn, quyến rũ nhưng đầy gai góc, bởi sức sống mãnh liệt và hương thơm quấn quýt mọi bước chân ngang qua. Không có gì có thể níu ánh nhìn của bạn mạnh mẽ bằng một giàn hoa hồng leo mọc tràn bờ rào hay cổng nhà một ai đó. Và bạn sẽ không khỏi tò mò về những người sống đằng sau bức tranh hoa kì vĩ ấy, hẳn đẹp và lãng mạn. Arthur Bell (Arthur Bell) là tên của loài hoa hồng leo màu vàng tuyệt đẹp và thơm. Chúng thuộc nhóm Floribunda- là một nhóm hoa hồng vườn hiện đại được phát triển bằng cách lai các loại trà lai với hoa hồng polyantha, loại hoa này có nguồn gốc từ cây lai giữa Rosa chinensis và Rosa multiflora-được lai bởi Sam McGredy IV vào năm 1964. Rose &#8216;Arthur Bell&#8217; là dạng cây bụi rụng lá hằng năm, mọc thành bụi thẳng đứng, cao tới 1m (3 ft). Vào mùa hè, những chùm hoa tỏa hương rất thơm, hoa màu vàng sáng nhạt dần sang màu vàng nhạt. Những nụ hoa kép, có nhụy đỏ khi nở ra. Hoa nở từng cụm có kích thước trung bình trên thân dày, có gai. Chúng không tàn trong mưa.]]></description>
 										<content:encoded><![CDATA[
@@ -44,7 +44,7 @@
 <p><span id="more-5"></span></p>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center is-style-twentytwentyone-border has-purple-background-color has-background" style="grid-template-columns: 23% auto;">
-<figure class="wp-block-media-text__media"><img loading="lazy" width="378" height="456" class="wp-image-13 size-full" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/1d894239ce5248b86b170b925cc58d2d.jpg" alt="" /></figure>
+<figure class="wp-block-media-text__media"><img loading="lazy" width="378" height="456" class="wp-image-13 size-full" src="/wp-content/uploads/2021/08/1d894239ce5248b86b170b925cc58d2d.jpg" alt="" /></figure>
 <div class="wp-block-media-text__content">
 <div class="wp-block-group"><div class="wp-block-group__inner-container">
 <div class="wp-block-columns are-vertically-aligned-center is-style-default">
@@ -82,7 +82,7 @@
 <hr />
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/VQgmhkuUygE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>]]></content:encoded>
 					
-					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/arthur-bell/feed/</wfw:commentRss>
+					<wfw:commentRss>/arthur-bell/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

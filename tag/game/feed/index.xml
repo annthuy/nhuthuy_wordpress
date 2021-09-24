@@ -10,7 +10,7 @@
 <channel>
 	<title>game &#8211; Hoa Mọc Trên Cung Trăng</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/game/feed/" rel="self" type="application/rss+xml" />
-	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<link></link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 15 Sep 2021 15:28:31 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Genshin Impact</title>
-		<link>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/</link>
-					<comments>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/#respond</comments>
+		<link>/genshin-impact/</link>
+					<comments>/genshin-impact/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Wed, 15 Sep 2021 15:10:48 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[game]]></category>
 		<category><![CDATA[gioithieu]]></category>
-		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=159</guid>
+		<guid isPermaLink="false">/?p=159</guid>
 
 					<description><![CDATA[Genshin Impact là tựa game MMORPG thế giới mở đầu tiên từ cha đẻ của Honkai Impact 3 sẽ ra mắt cộng đồng game thủ, trong đó có cả Việt Nam vào năm 2020. Câu chuyện của Genshin Impact xảy ra tại Teyvat – một đại lục kỳ lạ nơi bảy nguyên tố cùng hội tụ. Tại đây, bất cứ ai đều có thể trở thành Thần, mà người được Thần lựa chọn sẽ được trao Con mắt của Thần và khả năng sử dụng các nguyên tố. Người chơi sẽ vào vai một lữ khách, gặp gỡ những người bạn với tính cách khác nhau cũng như sở hữu năng lực đặc biệt, cùng họ đánh bại kẻ địch mạnh mẽ, tìm lại người thân đã lạc mất, đồng thời khám phá chân tướng của vùng đất này. Không chỉ có cốt truyện hấp dẫn, mở ra nhiều câu chuyện đặc sắc, dàn nhân vật trong Genshin Impact cũng vô cùng phong phú. Họ vừa có tạo hình nhìn là yêu vừa có những đặc điểm riêng nổi bật. DEMO NHÂN VẬT]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-gallery columns-6 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" alt="" data-id="166" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=166" class="wp-image-166"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" alt="" data-id="167" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=167" class="wp-image-167"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" alt="" data-id="162" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=162" class="wp-image-162"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" alt="" data-id="164" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=164" class="wp-image-164"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" alt="" data-id="163" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=163" class="wp-image-163"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" alt="" data-id="165" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=165" class="wp-image-165"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="836" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" alt="" data-id="161" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=161" class="wp-image-161"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-6 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" alt="" data-id="166" data-full-url="/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" data-link="/?attachment_id=166" class="wp-image-166"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" alt="" data-id="167" data-full-url="/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" data-link="/?attachment_id=167" class="wp-image-167"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" alt="" data-id="162" data-full-url="/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" data-link="/?attachment_id=162" class="wp-image-162"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" alt="" data-id="164" data-full-url="/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" data-link="/?attachment_id=164" class="wp-image-164"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" alt="" data-id="163" data-full-url="/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" data-link="/?attachment_id=163" class="wp-image-163"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" alt="" data-id="165" data-full-url="/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" data-link="/?attachment_id=165" class="wp-image-165"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="836" src="/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" alt="" data-id="161" data-full-url="/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" data-link="/?attachment_id=161" class="wp-image-161"/></figure></li></ul></figure>
 
 
 
@@ -47,7 +47,7 @@
 <p><span id="more-159"></span></p>
 
 
-<div class="wp-block-cover aligncenter has-background-dim has-custom-content-position is-position-bottom-center" style="min-height:633px"><img loading="lazy" width="1266" height="1899" class="wp-block-cover__image-background wp-image-168" alt="" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241304721_4713226595354322_2928985055809243152_n.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<div class="wp-block-cover aligncenter has-background-dim has-custom-content-position is-position-bottom-center" style="min-height:633px"><img loading="lazy" width="1266" height="1899" class="wp-block-cover__image-background wp-image-168" alt="" src="/wp-content/uploads/2021/09/241304721_4713226595354322_2928985055809243152_n.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
 <p class="has-large-font-size"><strong><span class="has-inline-color has-white-color">Nhà lữ hành- Aether và Lumine</span></strong></p>
 </div></div>
 
@@ -74,7 +74,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/feed/</wfw:commentRss>
+					<wfw:commentRss>/genshin-impact/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
