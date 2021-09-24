@@ -10,7 +10,7 @@
 <channel>
 	<title>Sản phẩm &#8211; Hoa Mọc Trên Cung Trăng</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Fri, 24 Sep 2021 15:45:09 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Móc Khóa Sword Art Online</title>
-		<link>/sản%20phẩm/moc-khoa-sword-art-online/</link>
-					<comments>/sản%20phẩm/moc-khoa-sword-art-online/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-sword-art-online/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-sword-art-online/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 14:33:43 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=235</guid>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=235</guid>
 
 					<description><![CDATA[&#8211; Móc khóa chất liệu acrylic (nhựa cứng) &#8211; In màu 2 mặt (1 mặt in nổi, 1 mặt in chìm) &#8211; Có lớp bảo vệ mỏng]]></description>
 										<content:encoded><![CDATA[<p>&#8211; Móc khóa chất liệu acrylic (nhựa cứng)</p>
@@ -34,19 +34,19 @@
 <p>&#8211; Có lớp bảo vệ mỏng</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sản%20phẩm/moc-khoa-sword-art-online/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-sword-art-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Móc Khóa No Game No Life</title>
-		<link>/sản%20phẩm/moc-khoa-no-game-no-life/</link>
-					<comments>/sản%20phẩm/moc-khoa-no-game-no-life/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-no-game-no-life/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-no-game-no-life/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 14:29:14 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=232</guid>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=232</guid>
 
 					<description><![CDATA[&#8211; Móc khóa chất liệu acrylic (nhựa cứng) &#8211; In màu 2 mặt (1 mặt in nổi, 1 mặt in chìm) &#8211; Có lớp bảo vệ mỏng]]></description>
 										<content:encoded><![CDATA[<p>&#8211; Móc khóa chất liệu acrylic (nhựa cứng)</p>
@@ -54,19 +54,19 @@
 <p>&#8211; Có lớp bảo vệ mỏng</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sản%20phẩm/moc-khoa-no-game-no-life/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-no-game-no-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Móc khóa Kimetsu no Yaiba</title>
-		<link>/sản%20phẩm/moc-khoa-kimetsu-no-yaiba/</link>
-					<comments>/sản%20phẩm/moc-khoa-kimetsu-no-yaiba/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-kimetsu-no-yaiba/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-kimetsu-no-yaiba/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 07:46:38 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product&#038;p=222</guid>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=222</guid>
 
 					<description><![CDATA[&#8211; Móc khóa chất liệu acrylic (nhựa cứng) &#8211; In màu 2 mặt (1 mặt in nổi, 1 mặt in chìm) &#8211; Có lớp bảo vệ mỏng]]></description>
 										<content:encoded><![CDATA[<p>&#8211; Móc khóa chất liệu acrylic (nhựa cứng)</p>
@@ -74,7 +74,7 @@
 <p>&#8211; Có lớp bảo vệ mỏng</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sản%20phẩm/moc-khoa-kimetsu-no-yaiba/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-kimetsu-no-yaiba/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

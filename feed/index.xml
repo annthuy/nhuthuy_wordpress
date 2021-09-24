@@ -10,7 +10,7 @@
 <channel>
 	<title>Hoa Mọc Trên Cung Trăng</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 15 Sep 2021 17:33:15 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Genshin Impact</title>
-		<link>/genshin-impact/</link>
-					<comments>/genshin-impact/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Wed, 15 Sep 2021 15:10:48 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[game]]></category>
 		<category><![CDATA[gioithieu]]></category>
-		<guid isPermaLink="false">/?p=159</guid>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=159</guid>
 
 					<description><![CDATA[Genshin Impact là tựa game MMORPG thế giới mở đầu tiên từ cha đẻ của Honkai Impact 3 sẽ ra mắt cộng đồng game thủ, trong đó có cả Việt Nam vào năm 2020. Câu chuyện của Genshin Impact xảy ra tại Teyvat – một đại lục kỳ lạ nơi bảy nguyên tố cùng hội tụ. Tại đây, bất cứ ai đều có thể trở thành Thần, mà người được Thần lựa chọn sẽ được trao Con mắt của Thần và khả năng sử dụng các nguyên tố. Người chơi sẽ vào vai một lữ khách, gặp gỡ những người bạn với tính cách khác nhau cũng như sở hữu năng lực đặc biệt, cùng họ đánh bại kẻ địch mạnh mẽ, tìm lại người thân đã lạc mất, đồng thời khám phá chân tướng của vùng đất này. Không chỉ có cốt truyện hấp dẫn, mở ra nhiều câu chuyện đặc sắc, dàn nhân vật trong Genshin Impact cũng vô cùng phong phú. Họ vừa có tạo hình nhìn là yêu vừa có những đặc điểm riêng nổi bật. DEMO NHÂN VẬT]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-gallery columns-6 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" alt="" data-id="166" data-full-url="/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" data-link="/?attachment_id=166" class="wp-image-166"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" alt="" data-id="167" data-full-url="/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" data-link="/?attachment_id=167" class="wp-image-167"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" alt="" data-id="162" data-full-url="/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" data-link="/?attachment_id=162" class="wp-image-162"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" alt="" data-id="164" data-full-url="/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" data-link="/?attachment_id=164" class="wp-image-164"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" alt="" data-id="163" data-full-url="/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" data-link="/?attachment_id=163" class="wp-image-163"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" alt="" data-id="165" data-full-url="/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" data-link="/?attachment_id=165" class="wp-image-165"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="836" src="/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" alt="" data-id="161" data-full-url="/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" data-link="/?attachment_id=161" class="wp-image-161"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-6 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" alt="" data-id="166" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241451744_4713225988687716_7361620618807086338_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=166" class="wp-image-166"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" alt="" data-id="167" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241547518_4713226068687708_8561227012492518714_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=167" class="wp-image-167"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" alt="" data-id="162" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241227717_4713226008687714_7309648005402054579_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=162" class="wp-image-162"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" alt="" data-id="164" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241256131_4713226352021013_4143816630955144866_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=164" class="wp-image-164"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" alt="" data-id="163" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241252527_4713226232021025_6639283505654425142_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=163" class="wp-image-163"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1266" height="1899" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" alt="" data-id="165" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241362526_4713226278687687_5555347703866710519_n.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=165" class="wp-image-165"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="836" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" alt="" data-id="161" data-full-url="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241551551_1133357337187885_5358748485765970158_n-1.jpg" data-link="https://annthuy.github.io/nhuthuy_wordpress/?attachment_id=161" class="wp-image-161"/></figure></li></ul></figure>
 
 
 
@@ -47,7 +47,7 @@
 <p><span id="more-159"></span></p>
 
 
-<div class="wp-block-cover aligncenter has-background-dim has-custom-content-position is-position-bottom-center" style="min-height:633px"><img loading="lazy" width="1266" height="1899" class="wp-block-cover__image-background wp-image-168" alt="" src="/wp-content/uploads/2021/09/241304721_4713226595354322_2928985055809243152_n.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<div class="wp-block-cover aligncenter has-background-dim has-custom-content-position is-position-bottom-center" style="min-height:633px"><img loading="lazy" width="1266" height="1899" class="wp-block-cover__image-background wp-image-168" alt="" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/241304721_4713226595354322_2928985055809243152_n.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
 <p class="has-large-font-size"><strong><span class="has-inline-color has-white-color">Nhà lữ hành- Aether và Lumine</span></strong></p>
 </div></div>
 
@@ -74,51 +74,51 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/genshin-impact/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bảo vệ: Tiểu thuyết &#8221; Fifty Shades&#8221;</title>
-		<link>/gioi-thieu-50-sac-thai/</link>
-					<comments>/gioi-thieu-50-sac-thai/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/gioi-thieu-50-sac-thai/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/gioi-thieu-50-sac-thai/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Mon, 13 Sep 2021 01:11:23 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
-		<guid isPermaLink="false">/?p=138</guid>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=138</guid>
 
 					<description><![CDATA[Không có trích dẫn vì bài này được bảo vệ.]]></description>
-										<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+										<content:encoded><![CDATA[<form action="https://annthuy.github.io/nhuthuy_wordpress/wp-login.php?action=postpass" class="post-password-form" method="post">
 <p>Nội dung này được bảo mật. Hãy nhập mật khẩu để xem tiếp:</p>
 <p><label for="pwbox-138">Mật khẩu: <input name="post_password" id="pwbox-138" type="password" size="20" /></label> <input type="submit" name="Submit" value="Nhập" /></p>
 </form>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gioi-thieu-50-sac-thai/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/gioi-thieu-50-sac-thai/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>XUYÊN THÀNH NAM PHỤ BẺ CONG NAM CHÍNH</title>
-		<link>/xuyen-thanh-nam-phu-be-cong-nam-chinh/</link>
-					<comments>/xuyen-thanh-nam-phu-be-cong-nam-chinh/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/xuyen-thanh-nam-phu-be-cong-nam-chinh/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/xuyen-thanh-nam-phu-be-cong-nam-chinh/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 01:34:26 +0000</pubDate>
 				<category><![CDATA[truyện]]></category>
 		<category><![CDATA[dammei]]></category>
 		<category><![CDATA[truyen]]></category>
-		<guid isPermaLink="false">/?p=99</guid>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=99</guid>
 
 					<description><![CDATA[NGUYÊN TÁC: Thanh Thủy Nương NươngBIÊN SOẠN: Tô TânTRANS+EDIT: Mèo Ba ĐuôiTHỂ LOẠI: Đam mỹ, mau xuyên, bách biến thụ x đủ kiểu soái công… TÌNH TRẠNG RAW: Hoàn (334 chương – 13 thế giới + 4 phiên ngoại + Lời kết của tác giả)TÌNH TRẠNG EDIT : Đang lết…NỘI DUNG: Mau xuyên bách biến thụ vs các loại soái ca công [Đôi lời của tác giả] “… Trước giờ mị tìm mãi không thấy văn thuần ái đam mỹ mau xuyên, Nương Nương là hủ nữ, nhưng cũng không phải thuần hủ nữ, trước đây mị toàn xem mau xuyên ngôn tình. Bởi bản thân từng bị mau xuyên nữ chính Mary Sue gây ghê tởm quá, đã ở bên nam chính còn có nhiều tình tiết thả thính nam phụ. Cho nên Nương Nương quyết định mở một thiên văn nam phụ cùng nam chính, dứt bỏ nữ chính…” TÓM TẮT Kỳ Ngôn sau khi chết thì xuyên việt, sau khi bị hệ thống quấn lấy đã đi đến từng thế giới khác nhau công lược nam chính. Tự nhận mình là “người vô cùng đào hoa, có vô số người tình nhưng không thật lòng yêu một ai”, tay lão luyện đứng giữa muôn hoa đến cuối cùng cũng bị rễ tình cắm sâu, như vậy hắn còn có thể toàn thần tiêu sái mà trở ra sao ? &#160; MỤC LỤC THẾ GIỚI THỨ IKHI NAM CHÍNH BĂNG SƠN BÁ ĐẠO BỊ BẺ CONG Chap 1  – Chap 2 – Chap 3 – Chap 4 – Chap 5 – Chap 6 – Chap 7 – Chap 8 – Chap 9 – Chap 10 – Chap 11 (END) THẾ GIỚI THỨ 2KHI NAM CHÍNH TRUNG HẬU CHÍNH TRỰC BỊ BẺ CONG Chap 12 – Chap 13 – Chap 14 – Chap 15 – Chap 16 – Chap 17 – Chap 18 – Chap 19 – Chap 20 – Chap 21 – Chap 22 – Chap 23 – Chap 24 – Chap 25 (END) THẾ GIỚI THỨ 4KHI NAM CHÍNH PHÚC HẮC NGẢ NGỚN BỊ BẺ CONG Chap 26 – Chap 27 – Chap 28 – Chap 29 – Chap 30 – Chap 31 – Chap 32 – Chap 33 – Chap 34 – Chap 35 – Chap 36 – Chap 37 – Chap 38 – Chap 39 – Chap 40 (END) THẾ GIỚI THỨ 4KHI NAM CHÍNH THÚ NHÂN VIỄN CỔ BỊ BẺ CONG Chap 41 – Chap 42 – Chap 43 – Chap 44 – Chap 45 – Chap 46 – Chap 47 – Chap 48 – Chap 49 – Chap 50 – Chap 51 – Chap 52 – Chap 53 – Chap 54 (END) THẾ GIỚI THỨ 5KHI NAM CHÍNH MA ĐẠO TÀ MỊ BỊ BẺ CONG Audio]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery columns-1 is-cropped">
 <ul class="blocks-gallery-grid">
 <li class="blocks-gallery-item">
-<figure><img loading="lazy" width="982" height="444" class="wp-image-89" src="/wp-content/uploads/2021/08/cropped-bbbb.jpg" alt="" data-id="89" /></figure>
+<figure><img loading="lazy" width="982" height="444" class="wp-image-89" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/cropped-bbbb.jpg" alt="" data-id="89" /></figure>
 </li>
 </ul>
 </figure>
@@ -216,30 +216,30 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
 <div>
 
-<a href='/wp-content/uploads/2021/08/Hotaru-FujitaMaiko_3cmw5.mp3'>Hotaru</a>
-<a href='/wp-content/uploads/2021/08/Lemon-KenshiYonezu-5411306.mp3'>Lemon</a>
-<a href='/wp-content/uploads/2021/08/SakuraAnataNiDeaeteYokatta-RSP-698987.mp3'>Sakura Anata Ni Deaete Yokatta</a>
+<a href='https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/Hotaru-FujitaMaiko_3cmw5.mp3'>Hotaru</a>
+<a href='https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/Lemon-KenshiYonezu-5411306.mp3'>Lemon</a>
+<a href='https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/SakuraAnataNiDeaeteYokatta-RSP-698987.mp3'>Sakura Anata Ni Deaete Yokatta</a>
 
 </div>
 </figure>
 <p><!-- /wp:embed --></p>]]></content:encoded>
 					
-					<wfw:commentRss>/xuyen-thanh-nam-phu-be-cong-nam-chinh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/xuyen-thanh-nam-phu-be-cong-nam-chinh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rose &#8216;Arthur Belle&#8217;</title>
-		<link>/arthur-bell/</link>
-					<comments>/arthur-bell/#respond</comments>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/arthur-bell/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/arthur-bell/#respond</comments>
 		
 		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 01:31:00 +0000</pubDate>
 				<category><![CDATA[blog]]></category>
 		<category><![CDATA[hoa]]></category>
 		<category><![CDATA[soluoc]]></category>
-		<guid isPermaLink="false">/?p=5</guid>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=5</guid>
 
 					<description><![CDATA[Từ rất lâu, hoa hồng đã được xem như một biểu tượng cao quý của tình yêu bởi vẻ đẹp lãng mạn, quyến rũ nhưng đầy gai góc, bởi sức sống mãnh liệt và hương thơm quấn quýt mọi bước chân ngang qua. Không có gì có thể níu ánh nhìn của bạn mạnh mẽ bằng một giàn hoa hồng leo mọc tràn bờ rào hay cổng nhà một ai đó. Và bạn sẽ không khỏi tò mò về những người sống đằng sau bức tranh hoa kì vĩ ấy, hẳn đẹp và lãng mạn. Arthur Bell (Arthur Bell) là tên của loài hoa hồng leo màu vàng tuyệt đẹp và thơm. Chúng thuộc nhóm Floribunda- là một nhóm hoa hồng vườn hiện đại được phát triển bằng cách lai các loại trà lai với hoa hồng polyantha, loại hoa này có nguồn gốc từ cây lai giữa Rosa chinensis và Rosa multiflora-được lai bởi Sam McGredy IV vào năm 1964. Rose &#8216;Arthur Bell&#8217; là dạng cây bụi rụng lá hằng năm, mọc thành bụi thẳng đứng, cao tới 1m (3 ft). Vào mùa hè, những chùm hoa tỏa hương rất thơm, hoa màu vàng sáng nhạt dần sang màu vàng nhạt. Những nụ hoa kép, có nhụy đỏ khi nở ra. Hoa nở từng cụm có kích thước trung bình trên thân dày, có gai. Chúng không tàn trong mưa.]]></description>
 										<content:encoded><![CDATA[
@@ -254,7 +254,7 @@
 <p><span id="more-5"></span></p>
 
 <div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center is-style-twentytwentyone-border has-purple-background-color has-background" style="grid-template-columns: 23% auto;">
-<figure class="wp-block-media-text__media"><img loading="lazy" width="378" height="456" class="wp-image-13 size-full" src="/wp-content/uploads/2021/08/1d894239ce5248b86b170b925cc58d2d.jpg" alt="" /></figure>
+<figure class="wp-block-media-text__media"><img loading="lazy" width="378" height="456" class="wp-image-13 size-full" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/08/1d894239ce5248b86b170b925cc58d2d.jpg" alt="" /></figure>
 <div class="wp-block-media-text__content">
 <div class="wp-block-group"><div class="wp-block-group__inner-container">
 <div class="wp-block-columns are-vertically-aligned-center is-style-default">
@@ -292,7 +292,7 @@
 <hr />
 <p><iframe loading="lazy" title="YouTube video player" src="https://www.youtube.com/embed/VQgmhkuUygE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>]]></content:encoded>
 					
-					<wfw:commentRss>/arthur-bell/feed/</wfw:commentRss>
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/arthur-bell/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
