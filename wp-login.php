@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://annthuy.github.io/nhuthuy_wordpress/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif" sizes="32x32">
+<link rel="icon" href="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif" sizes="192x192">
+<link rel="apple-touch-icon" href="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif">
+<meta name="msapplication-TileImage" content="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
