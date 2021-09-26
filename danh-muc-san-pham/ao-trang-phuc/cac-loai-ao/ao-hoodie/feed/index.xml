@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-trang-phuc/cac-loai-ao/ao-hoodie/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 11:32:54 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,24 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Áo hoodie Mèo Nyanko-sensei &#8211; anime Natsume Yuujinchou</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/ao-hoodie-meo-nyanko-sensei-anime-natsume-yuujinchou/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/ao-hoodie-meo-nyanko-sensei-anime-natsume-yuujinchou/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:32:53 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=420</guid>
+
+					<description><![CDATA[&#8211; Chất liệu chính : Vải Cotton + Poly.]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Chất liệu chính : Vải Cotton + Poly.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-422" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/33f_grande.jpg" alt="" width="600" height="250" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/ao-hoodie-meo-nyanko-sensei-anime-natsume-yuujinchou/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

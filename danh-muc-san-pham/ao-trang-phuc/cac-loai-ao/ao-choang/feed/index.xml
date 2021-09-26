@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-trang-phuc/cac-loai-ao/ao-choang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 15:03:48 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,25 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Áo choàng cosplay Akatsuki &#8211; anime Naruto</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/ao-choang-cosplay-akatsuki-anime-naruto/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/ao-choang-cosplay-akatsuki-anime-naruto/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:17:53 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=396</guid>
+
+					<description><![CDATA[Chất liệu : Vải Polyester , lót bên trong là vải dù. Họa tiết : Thêu.]]></description>
+										<content:encoded><![CDATA[<p>Chất liệu : Vải Polyester , lót bên trong là vải dù.</p>
+<p>Họa tiết : Thêu.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-397" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/bang_thong_so_ao_akatsuki_3dedae80d7524e8899d36dab993f6ee2_grande.jpg" alt="" width="600" height="238" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/ao-choang-cosplay-akatsuki-anime-naruto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

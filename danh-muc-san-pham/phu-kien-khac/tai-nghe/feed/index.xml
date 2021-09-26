@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu-kien-khac/tai-nghe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 14:42:28 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,41 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Tai nghe anime Naruto &#8211; Mẫu 2</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-2/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-2/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:41:59 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=460</guid>
+
+					<description><![CDATA[Tương thích tùy theo dòng điện thoại]]></description>
+										<content:encoded><![CDATA[<p><em><strong>Tương thích tùy theo dòng điện thoại</strong></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tai nghe anime Naruto &#8211; Mẫu 1</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-1/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-1/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:40:31 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=459</guid>
+
+					<description><![CDATA[Tương thích tùy theo dòng điện thoại]]></description>
+										<content:encoded><![CDATA[<p><em><strong>Tương thích tùy theo dòng điện thoại</strong></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

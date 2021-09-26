@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/s-a-o/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 17:00:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 11:39:43 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Áo sweater anime Sword Art Online</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/ao-sweater-anime-sword-art-online/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/ao-sweater-anime-sword-art-online/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:39:42 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=423</guid>
+
+					<description><![CDATA[&#8211; Chất liệu chính : Cotton , vải dày.]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Chất liệu chính : Cotton , vải dày.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/ao-sweater-anime-sword-art-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Asuna (Loại 2)</title>
 		<link>https://annthuy.github.io/nhuthuy_wordpress/product/asuna-loai-2/</link>
 					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/asuna-loai-2/#respond</comments>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-trang-phuc/cac-loai-ao/ao-haori-happi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 15:01:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,25 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Áo happi anime Kimetsu no Yaiba</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/ao-happi-anime-kimetsu-no-yaiba/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/ao-happi-anime-kimetsu-no-yaiba/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:26:52 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=409</guid>
+
+					<description><![CDATA[&#8211; Áo happi anime Kimetsu no Yaiba. &#8211; Chất liệu : Polyester fiber , vải dày và đẹp. &#8211; Free size , form mặc rộng rãi , phù hợp với cỡ người trên 1m6.]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Áo happi anime Kimetsu no Yaiba.</p>
+<p>&#8211; Chất liệu : Polyester fiber , vải dày và đẹp.</p>
+<p>&#8211; Free size , form mặc rộng rãi , phù hợp với cỡ người trên 1m6.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/ao-happi-anime-kimetsu-no-yaiba/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

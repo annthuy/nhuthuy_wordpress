@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-trang-phuc/cac-loai-mu/mu-snapback/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 11:47:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,25 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Mũ snapback anime Ansatsu Kyoushitsu</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/mu-snapback-anime-ansatsu-kyoushitsu/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/mu-snapback-anime-ansatsu-kyoushitsu/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:47:40 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=430</guid>
+
+					<description><![CDATA[&#8211; Nón có chất vải dày dặn , hình in thêu chất lượng. &#8211; Thiết kế thời trang phù hợp với cả nam lẫn nữ. &#8211; Có dây gài điều chỉnh kích cỡ ở phía sau.]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: 12pt;">&#8211; Nón có chất vải dày dặn , hình in thêu chất lượng.</span></p>
+<p><span style="font-size: 12pt;">&#8211; Thiết kế thời trang phù hợp với cả nam lẫn nữ.</span></p>
+<p><span style="font-size: 12pt;">&#8211; Có dây gài điều chỉnh kích cỡ ở phía sau.</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/mu-snapback-anime-ansatsu-kyoushitsu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

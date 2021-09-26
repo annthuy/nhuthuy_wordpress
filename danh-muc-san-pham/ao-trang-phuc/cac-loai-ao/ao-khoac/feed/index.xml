@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ao-trang-phuc/cac-loai-ao/ao-khoac/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 11:08:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,24 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Áo khoác Pikachu &#8211; anime Pokemon</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/ao-khoac-pikachu-anime-pokemon/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/ao-khoac-pikachu-anime-pokemon/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:08:12 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=390</guid>
+
+					<description><![CDATA[&#8211; Chất liệu chính : Cotton + Poly , vải mỏng. &#160;]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Chất liệu chính : Cotton + Poly , vải mỏng.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/ao-khoac-pikachu-anime-pokemon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

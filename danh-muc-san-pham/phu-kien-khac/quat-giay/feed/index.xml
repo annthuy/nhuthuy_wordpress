@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu-kien-khac/quat-giay/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 14:46:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,23 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Quạt giấy lụa anime Kuroshitsuji (Loại lớn)</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/product/quat-giay-lua-anime-kuroshitsuji-loai-lon/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/product/quat-giay-lua-anime-kuroshitsuji-loai-lon/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:46:40 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=463</guid>
+
+					<description><![CDATA[&#8211; Chất liệu: Giấy lụa.]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Chất liệu: Giấy lụa.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/quat-giay-lua-anime-kuroshitsuji-loai-lon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
