@@ -1,3 +1,11 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,11 +15,11 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Móc Khóa Sword Art Online	</title>
+	Các phản hồi luận về: 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/s%E1%BA%A3n%20ph%E1%BA%A9m/moc-khoa-sword-art-online/feed/" rel="self" type="application/rss+xml" />
-	<link>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/moc-khoa-sword-art-online/</link>
+	<link></link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 16:16:56 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
