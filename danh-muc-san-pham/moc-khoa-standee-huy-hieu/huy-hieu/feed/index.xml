@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/moc-khoa-standee-huy-hieu/huy-hieu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 17:29:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 07:37:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,25 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Huy hiệu game Genshin Impact</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/huy-hieu-game-genshin-impact/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/huy-hieu-game-genshin-impact/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 07:37:15 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=346</guid>
+
+					<description><![CDATA[&#8211; Huy hiệu game Genshin Impact. &#8211; Chất liệu: Nhựa (mặt trước) và thiếc (mặt sau). &#8211; Huy hiệu có thể dùng để trang trí cài vào áo, balo, cặp sách &#8230;]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Huy hiệu game Genshin Impact.</p>
+<p>&#8211; Chất liệu: Nhựa (mặt trước) và thiếc (mặt sau).</p>
+<p>&#8211; Huy hiệu có thể dùng để trang trí cài vào áo, balo, cặp sách &#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/huy-hieu-game-genshin-impact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

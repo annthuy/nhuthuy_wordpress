@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ansatsu Kyoushitsu &#8211; Hoa Mọc Trên Cung Trăng</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ansatsu-kyoushitsu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif</url>
+	<title>Ansatsu Kyoushitsu &#8211; Hoa Mọc Trên Cung Trăng</title>
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gấu bông Koro-sensei &#8211; anime Ansatsu Kyoushitsu</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/gau-bong-koro-sensei-anime-ansatsu-kyoushitsu/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/gau-bong-koro-sensei-anime-ansatsu-kyoushitsu/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 08:22:00 +0000</pubDate>
+				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=372</guid>
+
+					<description><![CDATA[&#8211; Kích thước: Tùy loại.]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Kích thước: Tùy loại.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-374" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/3a_d8a2973a9cd444cea8d595a162cf6d2b.jpg" alt="" width="732" height="850" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/sản%20phẩm/gau-bong-koro-sensei-anime-ansatsu-kyoushitsu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
