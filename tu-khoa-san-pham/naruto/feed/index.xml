@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/naruto/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 16:45:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 05:54:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,9 +37,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=460</guid>
 
 					<description><![CDATA[Tương thích tùy theo dòng điện thoại]]></description>
-										<content:encoded><![CDATA[<p><em><strong>Tương thích tùy theo dòng điện thoại</strong></em></p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -55,9 +53,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=459</guid>
 
 					<description><![CDATA[Tương thích tùy theo dòng điện thoại]]></description>
-										<content:encoded><![CDATA[<p><em><strong>Tương thích tùy theo dòng điện thoại</strong></em></p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/tai-nghe-anime-naruto-mau-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -73,10 +69,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=457</guid>
 
 					<description><![CDATA[&#8211; Chất liệu: Hợp kim xi. &#8211; Giá nguyên bộ 10 chiếc là 230k , không bán lẻ.]]></description>
-										<content:encoded><![CDATA[<p>&#8211; Chất liệu: Hợp kim xi.</p>
-<p>&#8211; Giá nguyên bộ 10 chiếc là 230k , không bán lẻ.</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/bo-nhan-anime-naruto-akatsuki/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -92,11 +85,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=396</guid>
 
 					<description><![CDATA[Chất liệu : Vải Polyester , lót bên trong là vải dù. Họa tiết : Thêu.]]></description>
-										<content:encoded><![CDATA[<p>Chất liệu : Vải Polyester , lót bên trong là vải dù.</p>
-<p>Họa tiết : Thêu.</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-397" src="https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/bang_thong_so_ao_akatsuki_3dedae80d7524e8899d36dab993f6ee2_grande.jpg" alt="" width="600" height="238" /></p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/ao-choang-cosplay-akatsuki-anime-naruto/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

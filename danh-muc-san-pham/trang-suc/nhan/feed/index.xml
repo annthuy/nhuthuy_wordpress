@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/trang-suc/nhan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 16:52:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 05:54:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,10 +37,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=457</guid>
 
 					<description><![CDATA[&#8211; Chất liệu: Hợp kim xi. &#8211; Giá nguyên bộ 10 chiếc là 230k , không bán lẻ.]]></description>
-										<content:encoded><![CDATA[<p>&#8211; Chất liệu: Hợp kim xi.</p>
-<p>&#8211; Giá nguyên bộ 10 chiếc là 230k , không bán lẻ.</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/bo-nhan-anime-naruto-akatsuki/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
@@ -56,9 +53,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=455</guid>
 
 					<description><![CDATA[&#8211; Chất liệu: Hợp kim xi.]]></description>
-										<content:encoded><![CDATA[<p>&#8211; Chất liệu: Hợp kim xi.</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/nhan-ciel-anime-kuroshitsuji/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

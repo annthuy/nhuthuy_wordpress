@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/attack-on-titan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 16:48:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Sep 2021 09:00:36 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,9 +37,7 @@
 				<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?post_type=product&#038;p=307</guid>
 
 					<description><![CDATA[-Chất liệu mặt : Hợp kim xi.]]></description>
-										<content:encoded><![CDATA[<p>-Chất liệu mặt : Hợp kim xi.</p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/product/moc-khoa-anime-attack-on-titan/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
