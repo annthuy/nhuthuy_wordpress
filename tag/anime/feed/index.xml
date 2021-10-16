@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>anime &#8211; Hoa Mọc Trên Cung Trăng</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/anime/feed/" rel="self" type="application/rss+xml" />
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 16 Oct 2021 16:16:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif</url>
+	<title>anime &#8211; Hoa Mọc Trên Cung Trăng</title>
+	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Top 3 Phụ kiện anime bạn sẽ thích khi sở hữu nó</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2021 14:58:25 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=595</guid>
+
+					<description><![CDATA[Đối với fan anime, bạn có thể biết qua những loại figure, móc khóa, standee in hình nhân vật trong các bộ anime hot hit hiện nay hay những trang phục, trang sức mang phong cách của các nhân vật. Top những Phụ kiện anime dưới đây, tôi chắc chắn<a class="moretag" href="https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/"> Đọc tiếp&#8230;</a>]]></description>
+		
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

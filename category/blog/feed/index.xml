@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 15 Sep 2021 15:28:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Oct 2021 16:16:25 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Top 3 Phụ kiện anime bạn sẽ thích khi sở hữu nó</title>
+		<link>https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/</link>
+					<comments>https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/#respond</comments>
+		
+		<dc:creator><![CDATA[AnnThuy]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2021 14:58:25 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[anime]]></category>
+		<guid isPermaLink="false">https://annthuy.github.io/nhuthuy_wordpress/?p=595</guid>
+
+					<description><![CDATA[Đối với fan anime, bạn có thể biết qua những loại figure, móc khóa, standee in hình nhân vật trong các bộ anime hot hit hiện nay hay những trang phục, trang sức mang phong cách của các nhân vật. Top những Phụ kiện anime dưới đây, tôi chắc chắn<a class="moretag" href="https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/"> Đọc tiếp&#8230;</a>]]></description>
+		
+					<wfw:commentRss>https://annthuy.github.io/nhuthuy_wordpress/top-3-phu-kien-anime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Genshin Impact</title>
 		<link>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/</link>
 					<comments>https://annthuy.github.io/nhuthuy_wordpress/genshin-impact/#respond</comments>
